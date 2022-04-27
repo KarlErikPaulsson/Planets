@@ -3,3 +3,5 @@ Mars: Red Planet Base
 Cold and dry, but everything is my favorite color.
 Two moons may be a problem for Wolfman
 Mummy will appreciate the lack of humidity
+
+Venus should be considered as an alternative
